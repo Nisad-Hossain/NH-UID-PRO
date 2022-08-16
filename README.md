@@ -26,3 +26,5 @@ git clone https://github.com/Nisad-Hossain/NH-UID-PRO
 cd NH-UID-PRO
 
 python NH-UID-PRO.py
+
+Note : (THIS IS PAID TOOLS FOR RANDOM CLONEING BAST UID CLONER APPROVED FOR CONTACT ME)
